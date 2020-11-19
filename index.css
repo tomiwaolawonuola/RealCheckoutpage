@@ -366,10 +366,10 @@ h6 span{
     }
 
     .inputWithBtn input[type=submit]{
-       
-        top: .5rem;
+        top: -.5rem;
         left: 12rem;
-        padding: 12px 13px;
+        padding: 9px 6px;
+        margin: 1rem  0;
     }
     
     
